@@ -1,16 +1,12 @@
-## Hi there 👋
+# Привет, я 47с! 👋
 
-<!--
-**047c/047c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- 🚀 Автобус скоростного следования! Это значит, что количество моих
+промежуточных остановок не более, чем в два раза меньше промежуточных остановочных пунктов по сравнению с их количеством для обычных автобусов.
+- 🕕 Промежуточный интервал около 30 минут в будние дни!
+- 🚍 Испльзую **уникальный модельный ряд для автобусов с моим маршрутом** - **МАЗ-203.047, выпускаемый с 2022 года!**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Моё расписание:
+https://clck.ru/3DTmkR
+## Как я выгляжу:
+https://fotobus.msk.ru/photo/3033120/?lang=de
